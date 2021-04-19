@@ -3,7 +3,7 @@ BlueSkyXN  综合工具箱 CentOS·YUM Supported ONLY
 
 ## 使用方法
 
-** centos 安装yum **
+**centos 安装yum**<br> 
 yum -y install wget
 <br> 
 wget -O box.sh https://raw.githubusercontent.com/annkoxx/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
