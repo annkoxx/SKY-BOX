@@ -2,7 +2,7 @@
 BlueSkyXN  综合工具箱 CentOS·YUM Supported ONLY
 
 ## 使用方法
-wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
+wget -O box.sh https://raw.githubusercontent.com/annkoxx/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 
 # 功能表
 1. IPV.SH ipv4/6优先级调整一键脚本·下载
