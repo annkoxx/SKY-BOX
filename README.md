@@ -1,9 +1,6 @@
 # SKY-BOX
 BlueSkyXN  综合工具箱 CentOS·YUM Supported ONLY
 
-# 详细说明
-https://www.blueskyxn.com/202104/4465.html
-
 ## 使用方法
 wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 
@@ -41,4 +38,7 @@ wget -O box.sh https://raw.githubusercontent.com/BlueSkyXN/SKY-BOX/main/box.sh &
 44. 宝塔面板 Hostcli 破解版·一键安装
 45. 宝塔面板 Hostcli 破解版·一键转移
 46. 莉塔面板·一键安装（安装后需要更新一下）
-47. 莉塔面板·一键更新（安装后需要更新一下）
+
+
+[出自](https://www.blueskyxn.com/202104/4465.html)<br>
+[作者仓库](https://github.com/BlueSkyXN/SKY-BOX)
