@@ -4,6 +4,8 @@ BlueSkyXN  综合工具箱 CentOS·YUM Supported ONLY
 ## 使用方法
 wget -O box.sh https://raw.githubusercontent.com/annkoxx/SKY-BOX/main/box.sh && chmod +x box.sh && clear && ./box.sh
 
+# 截图
+<img src="https://cdn.000714.xyz/Skyimg/blog2021/master/04/QQ%E5%9B%BE%E7%89%8720210418151155.png"></img>
 # 功能表
 1. IPV.SH ipv4/6优先级调整一键脚本·下载
 2. IPT.SH iptable一键脚本
